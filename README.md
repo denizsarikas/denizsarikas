@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am a fresh graduated junior who loves MERN stack applications.
+### You can find MERN stack applications, some js examples and cool react components which I use always in my repos.
+### Feel free to visit my portfolio and give me a feedback anytime.
+
 
 <!--
 **denizsarikas/denizsarikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
