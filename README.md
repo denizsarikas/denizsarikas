@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **MERN Stack Applications & Next.js**
 
 - 👨‍💻 All of my projects are available at [https://denizsarikas-portfolio.web.app/](https://denizsarikas-portfolio.web.app/)
+- (out of date i will make a new portfolio to showcase my projects soon)
 
 - 📫 How to reach me **denizsarikas@hotmail.com**
 
