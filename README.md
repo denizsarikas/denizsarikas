@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Deniz Sarıkaş</h1>
-<h3 align="center">A fresh graduated junior web dev</h3>
+<h1 align="center">Deniz Sarıkaş</h1>
+<h3 align="center">junior web developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack Applications & Next.js**
 
 - 👨‍💻 All of my projects are available at [https://denizsarikas-portfolio.web.app/](https://denizsarikas-portfolio.web.app/)
 - (out of date i will make a new portfolio to showcase my projects soon)
 
-- 📫 How to reach me **denizsarikas@hotmail.com**
+- 📫 How to reach me **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
